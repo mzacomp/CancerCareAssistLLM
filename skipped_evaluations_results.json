@@ -1,0 +1,17 @@
+[
+  {
+    "question": "Is pallati",
+    "model_answer": "Apologies, the provided cancer care documents do not include that information.",
+    "note": "Skipped Judge LLM because model indicated lack of context."
+  },
+  {
+    "question": "What is the capital of Italy? ",
+    "model_answer": "Apologies, the provided cancer care documents do not include that information.",
+    "note": "Skipped Judge LLM because model indicated lack of context."
+  },
+  {
+    "question": "Can you help me find an oncologist in Austin,Texas? ",
+    "model_answer": "Apologies, the provided cancer care documents do not include that information.",
+    "note": "Skipped Judge LLM because model indicated lack of context."
+  }
+]
