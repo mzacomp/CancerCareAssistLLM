@@ -1,0 +1,17 @@
+[
+  {
+    "question": "What is the capital of France? ",
+    "model_answer": "Apologies, the provided cancer care documents do not include that information.",
+    "note": "Skipped Judge LLM because model indicated lack of context."
+  },
+  {
+    "question": "Where is the nearest cancer community center to me in Detroit, Michigan? ",
+    "model_answer": "Apologies, the provided cancer care documents do not include that information.",
+    "note": "Skipped Judge LLM because model indicated lack of context."
+  },
+  {
+    "question": "Can you help me in locating an oncologist in Miami, Florida? ",
+    "model_answer": "Apologies, the provided cancer care documents do not include that information.",
+    "note": "Skipped Judge LLM because model indicated lack of context."
+  }
+]
